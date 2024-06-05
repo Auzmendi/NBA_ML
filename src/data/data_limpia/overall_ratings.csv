@@ -1,0 +1,31 @@
+,Team,OVR,DEF,TIER_T1,TIER_T2,TIER_T3
+0,Atlanta Hawks,82,64,False,False,True
+1,Boston Celtics,86,69,True,False,False
+2,Brooklyn Nets,80,66,False,False,True
+3,Charlotte Hornets,80,61,False,False,True
+4,Chicago Bulls,82,66,False,False,True
+5,Cleveland Cavaliers,82,66,True,False,False
+6,Dallas Mavericks,83,64,False,True,False
+7,Denver Nuggets,83,65,False,True,False
+8,Detroit Pistons,79,63,False,False,True
+9,Golden State Warriors,82,66,False,True,False
+10,Houston Rockets,82,68,False,True,False
+11,Indiana Pacers,83,65,False,True,False
+12,Los Angeles Clippers,83,66,True,False,False
+13,Los Angeles Lakers,83,66,True,False,False
+14,Memphis Grizzlies,82,70,True,False,False
+15,Miami Heat,82,62,True,False,False
+16,Milwaukee Bucks,83,66,True,False,False
+17,Minnesota Timberwolves,83,70,True,False,False
+18,New Orleans Pelicans,82,66,False,True,False
+19,New York Knicks,84,67,False,True,False
+20,Oklahoma City Thunder,83,68,True,False,False
+21,Orlando Magic,82,63,False,True,False
+22,Philadelphia 76ers,83,66,True,False,False
+23,Phoenix Suns,83,63,False,True,False
+24,Portland Trail Blazers,81,62,False,True,False
+25,Sacramento Kings,81,61,False,False,True
+26,San Antonio Spurs,80,63,False,False,True
+27,Toronto Raptors,81,63,False,False,True
+28,Utah Jazz,80,59,False,False,True
+29,Washington Wizards,79,61,False,False,True

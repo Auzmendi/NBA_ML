@@ -1,0 +1,31 @@
+,INS,OUT,Team_full,abbreviation,bpi,off,def,pbpi,wins,loses,OVR,DEF,TIER_T1,TIER_T2,TIER_T3
+0,61,82,Atlanta Hawks,ATL,-1.485,0.922,-2.407,-1.485,36,46,82,64,False,False,True
+1,81,91,Boston Celtics,BOS,8.075,6.593,1.482,8.075,75,20,86,69,True,False,False
+2,68,77,Brooklyn Nets,BKN,-4.156,-3.599,-0.558,-4.156,32,50,80,66,False,False,True
+3,66,81,Charlotte Hornets,CHA,-7.752,-4.775,-2.977,-7.752,21,61,80,61,False,False,True
+4,76,85,Chicago Bulls,CHI,-0.836,0.598,-1.434,-0.836,39,43,82,66,False,False,True
+5,74,82,Cleveland Cavaliers,CLE,3.055,0.6,2.456,3.055,53,41,82,66,True,False,False
+6,75,87,Dallas Mavericks,DAL,6.116,3.479,2.637,6.116,61,36,83,64,False,True,False
+7,78,85,Denver Nuggets,DEN,4.684,2.487,2.197,4.684,64,30,83,65,False,True,False
+8,74,76,Detroit Pistons,DET,-10.147,-6.258,-3.89,-10.147,14,68,79,63,False,False,True
+9,60,87,Golden State Warriors,GS,1.327,1.58,-0.253,1.327,46,36,82,66,False,True,False
+10,77,84,Houston Rockets,HOU,-0.617,-0.713,0.096,-0.617,41,41,82,68,False,True,False
+11,74,89,Indiana Pacers,IND,2.918,4.737,-1.818,2.918,55,43,83,65,False,True,False
+12,76,89,Los Angeles Clippers,LAC,3.726,3.481,0.245,3.726,53,35,83,66,True,False,False
+13,90,86,Los Angeles Lakers,LAL,1.604,2.197,-0.593,1.604,48,39,83,66,True,False,False
+14,77,85,Memphis Grizzlies,MEM,-0.256,-3.388,3.132,-0.256,27,55,82,70,True,False,False
+15,81,83,Miami Heat,MIA,4.609,0.104,4.505,4.609,47,40,82,62,True,False,False
+16,76,85,Milwaukee Bucks,MIL,-3.353,-0.695,-2.658,-3.353,51,37,83,66,True,False,False
+17,80,82,Minnesota Timberwolves,MIN,4.728,1.192,3.536,4.728,64,32,83,70,True,False,False
+18,84,85,New Orleans Pelicans,NO,1.782,0.398,1.384,1.782,49,37,82,66,False,True,False
+19,74,84,New York Knicks,NY,2.8,2.409,0.39,2.8,57,38,84,67,False,True,False
+20,72,92,Oklahoma City Thunder,OKC,5.06,2.404,2.657,5.06,63,29,83,68,True,False,False
+21,80,85,Orlando Magic,ORL,0.824,-2.175,2.999,0.824,50,39,82,63,False,True,False
+22,80,90,Philadelphia 76ers,PHI,3.339,1.452,1.887,3.339,49,39,83,66,True,False,False
+23,82,91,Phoenix Suns,PHX,1.481,1.627,-0.147,1.481,49,37,83,63,False,True,False
+24,74,84,Portland Trail Blazers,POR,-5.867,-4.909,-0.957,-5.867,21,61,81,62,False,True,False
+25,73,87,Sacramento Kings,SAC,0.937,0.781,0.156,0.937,46,36,81,61,False,False,True
+26,76,85,San Antonio Spurs,SA,-2.411,-2.686,0.275,-2.411,22,60,80,63,False,False,True
+27,73,82,Toronto Raptors,TOR,-5.504,-2.258,-3.245,-5.504,25,57,81,63,False,False,True
+28,70,84,Utah Jazz,UTAH,-3.853,0.452,-4.305,-3.853,31,51,80,59,False,False,True
+29,71,82,Washington Wizards,WSH,-11.703,-6.475,-5.228,-11.703,15,67,79,61,False,False,True
